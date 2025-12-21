@@ -1,1 +1,2 @@
+data/nyc-bus/**/stop_times.txt filter=lfs diff=lfs merge=lfs -text
 data/nyc-subway/gtfs_supplemented/stop_times.txt filter=lfs diff=lfs merge=lfs -text
